@@ -1,0 +1,10 @@
+<svg width="360" height="112" viewBox="0 0 360 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="112" rx="18" fill="#F7F2EA"/>
+  <rect x="20" y="22" width="78" height="62" rx="12" fill="#226B63"/>
+  <rect x="29" y="31" width="60" height="44" rx="8" fill="#F7F2EA"/>
+  <path d="M38 53C45 42 54 42 61 53C68 64 77 64 84 53" stroke="#D95F4E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M39 64H83" stroke="#226B63" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="87" cy="25" r="11" fill="#D95F4E"/>
+  <text x="116" y="50" fill="#162326" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="800">Alfombras IA</text>
+  <text x="117" y="75" fill="#5D686B" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Diseno personalizado inteligente</text>
+</svg>
